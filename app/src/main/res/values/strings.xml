@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PT15-AsyncTask</string>
+    <string name="fib">Fib</string>
+    <string name="fib_async">Fib Async</string>
+</resources>
